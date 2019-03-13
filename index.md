@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+## Welcome to My Profile
+Hi and welcome to my profile about my interest in IT, my ideal job, personal profile and some project ideas. My name is Jack, student number s3775623 studying at RMIT university and my email address is ‘s3775623@student.rmit.edu.au’. I was born in Australia and have completed YR 12 with three certificates, them being CERT III Indonesian, CERT II ICT and CERT II Business. As mentioned, I speak proficient Indonesian from my studies in school which is very helpful for trips to Bali. One of my favourite hobbies is strength training at the gym, I enjoy it because it helps me escape the fastness and intensity of life and helps me to become stronger and have a better physique. 
 
-You can use the [editor on GitHub](https://github.com/jwalford/Assignment-1-My-Profile/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Interest in IT
+My interest in IT spans in many different directions, I find computer building, networking and security all interesting. I feel that my interest in IT started from when I was young and I got my first toy computer as a birthday present, from there I believe it all sparked out and I found a passion that I’ve had since. That was part of my “event”, but also when I grew up a little, I was always asked by my family members to help them with their technological issues. So, I was basically the family technological assistant. My experience with IT has been quite slim, but also vast. In school I completed the CERT II in Information Technology which required me to completed various tasks relating to ICT including building a computer (I have since built one of my own). 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Previously I have studied at the University of Western Australia (UWA), but wasn’t for me, so I had the second half of last year away from studies, did a fair bit of research and found that this was the university for me. I chose to come to RMIT firstly because of the easy access of online study which allows me to work part-time as well and work around it. I also chose to come to RMIT as I’ve heard and seen great reviews from students online and have always wanted to study ICT so what better way than to study at RMIT. 
 
-### Markdown
+I expect to learn, in depth, the different components and come out “job ready” for ICT firms alike. I would like to veer off into the department of security and networking as I have more of a drive for that kind of field. I also want to learn about the ins and outs of AI technology as I would like to work in that industry for a time. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Ideal Job
+A chief information officer is an executive position given to a person who reports to the CEO and is in charge of the IT sector of a firm/business. This position is appealing to me because it contains a lot of responsibility which also comes with a lot of reward. It’s appealing to me as I think this is the peak of an IT career and I would like to think that I could have the title of CIO one day after a lot of hard work and perseverance. 
 
-```markdown
-Syntax highlighted code block
+A CIO must have very adequate knowledge of the firm they are working for and also their aspirations, they must have people skills and they must also know IT from the inside out and be able to translate that knowledge into understandable English for non-IT experts. Basic qualifications of a CIO is a bachelors degree, but further studies are desirable. Experience on the other hand has to be around five to ten years in a particular field that focuses on project management or similar. The skills that I currently have are no where near the adequacy of being a CIO, but I am working on having that experience and knowledge. Right now, I have a Certificate II in ICT and experience in building PC’s and general knowledge of Information Technology. 
 
-# Header 1
-## Header 2
-### Header 3
+I plan on expanding my knowledge of IT greatly by first completing my bachelors degree in ICT at RMIT and then continuing on to complete many hours of work in fields related to the CIO position. If I had to, I would complete unpaid work experience to get my foot in the door and then get the experience required to become a CIO. 
 
-- Bulleted
-- List
+### Personal Profile
+After taking the three tests, the Myer-Briggs test resulted in ENFP-A which is a ‘campaigner’, the online learning style test brought back that I’m an auditory learner and the big five personality test resulted in the emotionally stable and intellect sections outdoing all of the other sections which were extroversion, agreeableness and conscientiousness. These results were quite accurate, they mean to me that I am in between an introvert and extrovert with a strong mind/emotionally stable and very calm in situations that can be difficult for some. Being an ‘auditory’ learner means that I learn best when put in situations of listening and taking in information that way rather than conventional note-taking. 
 
-1. Numbered
-2. List
+I believe in a team effort I would respect other’s decisions, input and contributions to the team. Considering my tests, I would be best to work in a team where there is auditory communication, i.e. audio calls and I believe my emotional stableness brings me to be a good team leader/good co-operator with team members. My campaigner mentality leans me toward the coordination factor of good teamwork, this is because I can express my work in an easy to read/understandable way. When creating/choosing a team I should take my tests into account so I can have the best chance of grouping up with people compatible with my personality/learning style. If I look at my main characteristics, I believe that I would work well with people who have the same learning style as me and also the same or similar calmness in stressful situations, or not. I say or not because sometimes the best teams are ones with totally different beliefs/personalities and learning styles as one compliments the other.
 
-**Bold** and _Italic_ and `Code` text
+### Project Idea
+My project idea is a VR simulator offered to university students produced with use of Unity. This VR simulator allows students to get the feel of a real work environment and gain knowledge and skills to then extend their career without the need of being there. For example, if you wanted to become a Chief Information Officer you could gain experience in that particular workplace/position. This project would be useful to many students/people. This is because there is more and more demand for experience from students and with this simulator, that can be a reality. According to All About Careers, “Young people are more likely to be successful in their job hunt if they have done some good work experience. Fact.” (www.allaboutcareers.com). 
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+Essentially, the Virtual Reality world is taking a big part in the world of gaming and video, but it can also be implemented into learning. With this simulator work would come easy to students as the interactive scene would encourage them to see if this kind of workplace is really what they want and also give them the experience they need for the field. I think this project would be a very interesting and useful tool for the majority of university students as it enables them to be able to experience what they are yet to experience and put the theory into practice. Basically, this simulator can be used for many different workplaces such as, information technology, physical education and also law school. If you think about it, its like working in a firm that you haven’t been hired into yet, its like a taste of what you’re going to get but also a good experience booster. 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jwalford/Assignment-1-My-Profile/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+The simulators functions are simple, you find yourself a quiet place where you’d normally study or read. Next you put on your VR headset and jump into a real time office setting where all of the normalities of that kind of environment are evident. The fast-paced feel of work is part of the simulator as you find yourself bumping into people who are in a rush/stressed and you also feel the stress of your own to do list. The to do list is a feature of this simulator where it gives you objectives from your manager to do in the pace and intensity of a normal work environment. There are various different settings from a laid-back manager to then a firm and strict manager, all of which can be changed from the start-up menu. Different companies can be selected, for example, sporting industry or commerce, so that we can tailor these different settings and work environments to the workplace of your choice. 
 
-### Support or Contact
+As always there will be setbacks with this kind of thing. The kind of setbacks that I believe will be evident are things like firms complaining about the authenticity of the simulator, students complaining about the quality of experience they are getting and finally the last obstacle I see is the lack of upholding due to the rapid changing workplaces. Another setback that I see coming about is the cooperation of companies to help us make this a reality and to help us in the authenticity and realism of the simulator by creating a real-like simulator for learning students. A final setback is the amount of companies we will need to cooperate with to make this a simulator for everyone, for example, the sporting companies and the different law firms. I feel that this project will be hard work but definitely a rewarding one if we have the perseverance to help these students. 
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+The software needed for this project to be successful are Unity, Java, Photoshop and simul8. The hardware needed will be a decent number of high-end computers to be able to cope with the intensive production and simulation that will be required. Other equipment requirements include office space, high end fibre internet connection for communication with team-members out of the office and lots of VR headsets for testing. Skills required for my project are a bachelor’s degree in computer science or something similar, at least two years’ experience in the field of simulation and VR and a high work rate. Software that needs to be written include writing in Unity, Java and simul8 and also an ability to use Photoshop. It will be difficult to find a team of at least 20 to be working on this project but only a minute few have the skills to complete the task. The software is readily available with most of it being free of charge and others setting you back a couple of hundred dollars per person. Hardware required will be expensive but if the work is completed well and the project comes out successful then it will be worth it.
+
+If this project is successful, the simulator will help students in universities all around the world to become more accustomed to work environments and therefore be more “job ready”. “What project will help you develop the skills, experience and knowledge required to make you qualified for your ideal job?”, was the original problem and this has been solved by use of a system that gives you the tools to be job ready and especially in my case, ready to be a CIO. This development will have a lasting impact on every student who is looking for a job but needs experience or if they just generally want to experience what its like to be in charge or to be in a specific kind of work place.
+
+
+
+
+
